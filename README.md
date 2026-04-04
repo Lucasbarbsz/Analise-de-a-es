@@ -1,4 +1,5 @@
 📊 Análise de Retornos de Ações Brasileiras vs Ibovespa
+
 📌 Sobre o Projeto
 
 Este projeto tem como objetivo analisar o desempenho de ações brasileiras ao longo dos anos, comparando seus retornos com o índice de referência do mercado, o Ibovespa.
@@ -28,6 +29,7 @@ Matplotlib
 Jupyter Notebook
 
 🗂️ Estrutura do Projeto
+
 analise-acoes-brasileiras/
 │
 ├── notebook.ipynb       # Análise completa
